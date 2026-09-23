@@ -1,7 +1,7 @@
 name: Push Trigger Workflow
 
 on:
-  push:
+   push:
     branches:
       - main
 
